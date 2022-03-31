@@ -1,0 +1,13 @@
+git clone https://github.com/davorjoleski/SI_2022_lab1_203064.git
+git add shopping_list.txt
+ git commit -m "“Add 5 items to the shopping list"
+git branch branch1
+git branch branch2
+git checkout branch1
+git checkout branch2
+git checkout main
+git commit --ammend -m "Modify item #4 and add item #6"
+git merge branch1
+git merge branch2
+
+conflict resavame so birajne na eden od granikte koj da go zemime go zemame branch 2
