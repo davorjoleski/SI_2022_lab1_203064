@@ -10,4 +10,5 @@ git commit --ammend -m "Modify item #4 and add item #6"
 git merge branch1
 git merge branch2
 
-conflict resavame so birajne na eden od granikte koj da go zemime go zemame branch 2
+conflict resavame so birajne na eden od granikte koj da go zemime(briseme branch1), go zemame branch 2
+rekurziven nacin
